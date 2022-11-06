@@ -9,7 +9,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin ease-in 2s alternate;
+    animation: App-logo-spin ease-in 2s infinite;
   }
 }
 
