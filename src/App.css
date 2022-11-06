@@ -10,7 +10,6 @@
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin ease-in 2s alternate;
-    animation: App-logo-spin ease-in 2s alternate;
   }
 }
 
@@ -34,6 +33,6 @@
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(1280deg);
+    transform: rotate(360deg);
   }
 }
