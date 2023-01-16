@@ -9,15 +9,11 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="http://gametest.mobi/pixi/morph"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          check em out
-        </a>
+
       </header>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/annyang/2.4.0/annyang.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/SpeechKITT/1.0.0/speechkitt.min.js"></script>
+      <script src="./voice.js"></script>
     </div>
   );
 }
